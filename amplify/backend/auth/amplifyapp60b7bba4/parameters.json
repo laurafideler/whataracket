@@ -49,4 +49,8 @@
     "userPoolGroupList": [],
     "serviceName": "Cognito",
     "dependsOn": []
+    "useDefault": "default",
+    "userPoolGroupList": [],
+    "serviceName": "Cognito",
+    "dependsOn": []
 }
