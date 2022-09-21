@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <div> here is a change</div>
+      <div> here is another change that will hopefully be better</div>
       <AmplifySignOut />
     </div>
   );
