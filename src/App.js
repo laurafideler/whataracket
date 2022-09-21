@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <div> here is a change</div>
       <div> here is another change that will hopefully be better</div>
+      <div>one more</div>
       <AmplifySignOut />
     </div>
   );
